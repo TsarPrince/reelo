@@ -33,8 +33,12 @@ const generateQuestionPaper = (
     easy: number;
     medium: number;
     hard: number;
+  } = {
+    easy: 5,
+    medium: 10,
+    hard: 15,
   },
-  OUT_PATH: string,
+  OUT_PATH: string = "src/out",
   verbose: boolean = false
 ) => {
   // if verbose is true, print general stats about the question bank

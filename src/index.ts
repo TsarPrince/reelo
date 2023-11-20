@@ -10,23 +10,13 @@ const OUT_PATH = "src/out";
 
 try {
   // // Invalid distribution (20+30+60 != 100)
-  // generateQuestionPaper(
-  //   100,
-  //   { easy: 20, medium: 30, hard: 60 },
-  //   MARKS_DISTRIBUTION,
-  //   OUT_PATH
-  // );
+  // generateQuestionPaper(100, { easy: 20, medium: 30, hard: 60 });
 
   // // Not possible with current marks distribution
-  // generateQuestionPaper(
-  //   100,
-  //   { easy: 20, medium: 30, hard: 50 },
-  //   MARKS_DISTRIBUTION,
-  //   OUT_PATH
-  // );
+  // generateQuestionPaper(100, { easy: 20, medium: 30, hard: 50 });
 
   // // Insufficient questions
-  // in main.ts ln 6
+  // at line 6, src/main.ts
   // import QUESTIONS from "./constant/questions2.constant.json";
 
   // Success!
@@ -34,7 +24,8 @@ try {
     100,
     { easy: 25, medium: 30, hard: 45 },
     MARKS_DISTRIBUTION,
-    OUT_PATH
+    OUT_PATH,
+    true
   );
 } catch (err: any) {
   console.log(err.message);
