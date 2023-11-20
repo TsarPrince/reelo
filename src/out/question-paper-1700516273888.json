@@ -1,0 +1,79 @@
+[
+  {
+    "question": "How does the concept of viscosity impact fluid dynamics?",
+    "subject": "Physics",
+    "topic": "Fluid Mechanics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Describe the significance of the Renaissance in European history.",
+    "subject": "History",
+    "topic": "Renaissance",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the speed of light?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the Pythagorean theorem?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Factorize the quadratic equation x^2 - 5x + 6 = 0.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Evaluate the causes of World War II.",
+    "subject": "History",
+    "topic": "Modern History",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain Bernoulli's equation and its applications in fluid flow.",
+    "subject": "Physics",
+    "topic": "Fluid Mechanics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the theory of evolution by natural selection.",
+    "subject": "Biology",
+    "topic": "Evolution",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the concept of complex numbers and their geometric representation.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Derive the continuity equation for fluid flow and discuss its significance.",
+    "subject": "Physics",
+    "topic": "Fluid Mechanics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "How does the Schrödinger's cat thought experiment illustrate the principle of superposition?",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 15
+  }
+]

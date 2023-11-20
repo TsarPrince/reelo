@@ -1,0 +1,79 @@
+[
+  {
+    "question": "Describe the significance of the Renaissance in European history.",
+    "subject": "History",
+    "topic": "Renaissance",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Describe the process of photosynthesis.",
+    "subject": "Biology",
+    "topic": "Botany",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Factorize the quadratic equation x^2 - 5x + 6 = 0.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the Pythagorean theorem?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "How does the concept of viscosity impact fluid dynamics?",
+    "subject": "Physics",
+    "topic": "Fluid Mechanics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Explain the concept of quantum entanglement.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain Bernoulli's equation and its applications in fluid flow.",
+    "subject": "Physics",
+    "topic": "Fluid Mechanics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Evaluate the causes of World War II.",
+    "subject": "History",
+    "topic": "Modern History",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Discuss the implications of the double-slit experiment in quantum physics.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Analyze Shakespeare's use of iambic pentameter in his sonnets.",
+    "subject": "English Literature",
+    "topic": "Poetry Analysis",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Analyze the causes and effects of inflation.",
+    "subject": "Economics",
+    "topic": "Microeconomics",
+    "difficulty": "Hard",
+    "marks": 15
+  }
+]

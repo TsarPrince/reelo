@@ -1,0 +1,184 @@
+[
+  {
+    "question": "What is the speed of light?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Explain Newton's Second Law of Motion.",
+    "subject": "Physics",
+    "topic": "Dynamics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Derive the Schrödinger equation.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Describe the Heisenberg Uncertainty Principle.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the concept of quantum entanglement.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Discuss the implications of the double-slit experiment in quantum physics.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "How does the Schrödinger's cat thought experiment illustrate the principle of superposition?",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Describe the process of photosynthesis.",
+    "subject": "Biology",
+    "topic": "Botany",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Explain the theory of evolution by natural selection.",
+    "subject": "Biology",
+    "topic": "Evolution",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Analyze the human genome project and its implications.",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Evaluate the causes of World War II.",
+    "subject": "History",
+    "topic": "Modern History",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the Pythagorean theorem?",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Prove the fundamental theorem of algebra.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Solve the system of linear equations: 3x + 2y = 6 and 5x - y = 7.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Factorize the quadratic equation x^2 - 5x + 6 = 0.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Prove that the sum of the roots of a quadratic equation ax^2 + bx + c = 0 is -b/a.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the concept of complex numbers and their geometric representation.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Describe the key principles of Keynesian economics.",
+    "subject": "Economics",
+    "topic": "Macroeconomics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Analyze the causes and effects of inflation.",
+    "subject": "Economics",
+    "topic": "Microeconomics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Explain Bernoulli's equation and its applications in fluid flow.",
+    "subject": "Physics",
+    "topic": "Fluid Mechanics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Derive the continuity equation for fluid flow and discuss its significance.",
+    "subject": "Physics",
+    "topic": "Fluid Mechanics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Discuss the principles of laminar and turbulent flow.",
+    "subject": "Physics",
+    "topic": "Fluid Mechanics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "How does the concept of viscosity impact fluid dynamics?",
+    "subject": "Physics",
+    "topic": "Fluid Mechanics",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Explain the structure and function of DNA.",
+    "subject": "Biology",
+    "topic": "Molecular Biology",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Analyze Shakespeare's use of iambic pentameter in his sonnets.",
+    "subject": "English Literature",
+    "topic": "Poetry Analysis",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Describe the significance of the Renaissance in European history.",
+    "subject": "History",
+    "topic": "Renaissance",
+    "difficulty": "Easy",
+    "marks": 5
+  }
+]
