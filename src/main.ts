@@ -54,7 +54,7 @@ const generateQuestionPaper = (
 
   const { easy, medium, hard } = difficulty;
   // throw error, if difficulty distribution is invalid
-  if (easy + medium + hard !== 100) {
+  if (easy + medium + hard !== 100 || easy < 0 || medium < 0 || hard < 0) {
     throw new Error("Invalid difficulty distribution.");
   }
 
