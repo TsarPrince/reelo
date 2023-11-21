@@ -66,5 +66,5 @@ Insufficient questions in the question bank. Try increasing the number of questi
 ## Extras
 
 - `verbose` can be changed to true for additional informations in `src/index.ts`
-- In case 4 above, the chosen difficulty distribution `(25, 30, 45)` which is the one recommended by the generator in case 2 with the least Standard Deviation. This can be proved to be the best possible distribution matching to the original requirement of `(20, 30, 50)` in case 2.
+- In case 4 above, the chosen difficulty distribution `(25, 30, 45)` is the one recommended by the generator in case 2 with the least **Standard Deviation**. This can be proved to be the best possible distribution matching the original requirement of `(20, 30, 50)` in case 2.
 - Question paper genereated each time is random and fulfils the required distribution.
