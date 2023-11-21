@@ -12,9 +12,12 @@ yarn
 yarn dev
 ```
 
+(Optional)<br>
+Do `yarn test` to run test files.
+
 <br><hr><br>
 
-## Following edge cases have been taken care of:
+## Following edge cases have been taken care of (tested with jest):
 
 1. Invalid distribution (20+30+60 != 100)
 
@@ -68,3 +71,4 @@ Insufficient questions in the question bank. Try increasing the number of questi
 - `verbose` can be changed to true for additional informations in `src/index.ts`
 - In case 4 above, the chosen difficulty distribution `(25, 30, 45)` is the one recommended by the generator in case 2 with the least **Standard Deviation**. This can be proved to be the best possible distribution matching the original requirement of `(20, 30, 50)` in case 2.
 - Question paper genereated each time is random and fulfils the required distribution.
+- Basic unit testing is done with `jest` for above mentioned test cases.
